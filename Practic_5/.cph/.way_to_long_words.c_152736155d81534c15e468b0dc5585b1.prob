@@ -1,0 +1,1 @@
+{"name":"Local: way_to_long_words","url":"f:\\Programing\\C Programming\\Practic_5\\way_to_long_words.c","tests":[{"id":1681797480824,"input":"3\nword\nlocalization\ninternationalization","output":"word\nl10n\ni18n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Practic_5\\way_to_long_words.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: squre_or_rectangle","url":"f:\\Programing\\C Programming\\Practic_9\\squre_or_rectangle.c","tests":[{"id":1683820505675,"input":"3\n10 10\n13 200\n300 300","output":"Square\nRectangle\nSquare"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Practic_9\\squre_or_rectangle.c","group":"local","local":true}

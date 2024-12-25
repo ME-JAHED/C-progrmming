@@ -1,0 +1,1 @@
+{"name":"Local: count_it","url":"f:\\Programing\\C Programming\\Final_Exam_1\\count_it.c","tests":[{"id":1683829719701,"input":"Hello Everyone","output":"Capital - 2\nSmall - 11\nSpaces - 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Final_Exam_1\\count_it.c","group":"local","local":true}

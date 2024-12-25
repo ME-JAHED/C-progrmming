@@ -1,0 +1,1 @@
+{"name":"Local: problem_4","url":"f:\\Programing\\C Programming\\Practic_3\\.cph\\problem_4.c","tests":[{"id":1681153822261,"input":"9 1","output":"8"},{"id":1681153840496,"input":"1 9","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Practic_3\\.cph\\problem_4.c","group":"local","local":true}

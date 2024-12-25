@@ -1,0 +1,1 @@
+{"name":"Local: memo_and_momo","url":"f:\\Programing\\C Programming\\Practic_9\\memo_and_momo.c","tests":[{"id":1683818573710,"input":"15 7 3","output":"Memo"},{"id":1683818608715,"input":"22 10 2","output":"Both"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Practic_9\\memo_and_momo.c","group":"local","local":true}

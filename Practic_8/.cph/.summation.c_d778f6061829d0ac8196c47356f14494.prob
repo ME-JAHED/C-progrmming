@@ -1,0 +1,1 @@
+{"name":"Local: summation","url":"f:\\Programing\\C Programming\\Practic_8\\summation.c","tests":[{"id":1683649289425,"input":"4\n1 4 2 7","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Practic_8\\summation.c","group":"local","local":true}

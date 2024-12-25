@@ -1,0 +1,4 @@
+Enter the total number of elements (N): Enter the group size (K): Enter the elements:
+Minimum: 4
+Minimum: 6
+Minimum: 8

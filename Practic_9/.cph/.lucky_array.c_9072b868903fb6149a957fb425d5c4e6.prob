@@ -1,0 +1,1 @@
+{"name":"Local: lucky_array","url":"f:\\Programing\\C Programming\\Practic_9\\lucky_array.c","tests":[{"id":1684072809914,"input":"5\n8 8 9 5 9","output":"Lucky"},{"id":1684072861622,"input":"5\n3 3 3 5 3","output":"Unlucky"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Practic_9\\lucky_array.c","group":"local","local":true}

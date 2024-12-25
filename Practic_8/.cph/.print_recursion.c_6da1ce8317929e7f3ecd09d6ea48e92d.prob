@@ -1,0 +1,1 @@
+{"name":"Local: print_recursion","url":"f:\\Programing\\C Programming\\Practic_8\\print_recursion.c","tests":[{"id":1683641921705,"input":"3","output":"I love Recursion\nI love Recursion\nI love Recursion"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Practic_8\\print_recursion.c","group":"local","local":true}

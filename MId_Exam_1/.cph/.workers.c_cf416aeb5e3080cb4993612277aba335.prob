@@ -1,0 +1,1 @@
+{"name":"Local: workers","url":"f:\\Programing\\C Programming\\MId_Exam_1\\workers.c","tests":[{"id":1682615316402,"input":"10 5 15","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\MId_Exam_1\\workers.c","group":"local","local":true}

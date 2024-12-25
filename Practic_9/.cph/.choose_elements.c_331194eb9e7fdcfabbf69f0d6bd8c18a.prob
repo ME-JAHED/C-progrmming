@@ -1,0 +1,1 @@
+{"name":"Local: choose_elements","url":"f:\\Programing\\C Programming\\Practic_9\\choose_elements.c","tests":[{"id":1683822199416,"input":"2 2\n1 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\C Programming\\Practic_9\\choose_elements.c","group":"local","local":true}
